@@ -36,13 +36,13 @@ yfinance
 tensorflow
 ```
 <div style="display: flex; justify-content: flex-start; gap: 100px">
-  <img src="image-3.png" alt="alt text" style="width: 300px;"/>
-  <img src="image-2.png" alt="alt text" style="width: 400px;"/>
+  <img src="image-3.png" alt="numpy" style="width: 300px;"/>
+  <img src="image-2.png" alt="matplotlib" style="width: 400px;"/>
 </div>
 <br/>
 <div style="display: flex; justify-content: flex-start; gap: 50px">
-  <img src="image.png" alt="alt text" style="width: 200px;"/>
-  <img src="image-1.png" alt="alt text" style="width: 500px;"/>
+  <img src="image.png" alt="tensorflow" style="width: 200px;"/>
+  <img src="image-1.png" alt="yfinance" style="width: 500px;"/>
 </div>
 
 Then, run the following command to install the dependencies:
